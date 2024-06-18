@@ -1,0 +1,1 @@
+# linear_impact_of_increased_hourly_wage_on_production_rates_for_equal_total_cost
