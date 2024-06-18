@@ -14,4 +14,4 @@ One example where production rates were adjusted with hourly rate and another ex
 
 ![Screenshot 2024-06-18 105643](https://github.com/NollieAnalysis/linear_impact_of_increased_hourly_wage_on_production_rates_for_equal_total_cost/assets/163913188/579f8ec0-2e3f-4785-acd4-8e5cd11c4e1d)
 
-# .xlsx file with example attached to repo.
+# .xlsx file with examples attached to repo.
